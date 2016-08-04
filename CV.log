@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  4 AUG 2016 14:07
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  4 AUG 2016 22:49
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -6,9 +6,9 @@ LaTeX2e <2015/10/01> patch level 2
 Babel <3.9n> and hyphenation patterns for 69 languages loaded.
 (friggeri-cv.cls
 Document Class: friggeri-cv 2012/04/30 CV class
-(F:\PortableApps\miktex\tex\latex\base\article.cls
+(K:\PortableApps\miktex\tex\latex\base\article.cls
 Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
-(F:\PortableApps\miktex\tex\latex\base\size10.clo
+(K:\PortableApps\miktex\tex\latex\base\size10.clo
 File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
@@ -23,15 +23,15 @@ File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
 )
-(F:\PortableApps\miktex\tex\latex\xcolor\xcolor.sty
+(K:\PortableApps\miktex\tex\latex\xcolor\xcolor.sty
 Package: xcolor 2007/01/21 v2.11 LaTeX color extensions (UK)
 
-(F:\PortableApps\miktex\tex\latex\00miktex\color.cfg
+(K:\PortableApps\miktex\tex\latex\00miktex\color.cfg
 File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
 )
 Package xcolor Info: Driver file: xetex.def on input line 225.
 
-(F:\PortableApps\miktex\tex\latex\graphics-def\xetex.def
+(K:\PortableApps\miktex\tex\latex\graphics-def\xetex.def
 File: xetex.def 2016/07/11 v4.10 LaTeX color/graphics driver for XeTeX (L3/RRM/
 JK)
 )
@@ -44,13 +44,13 @@ Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1358.
 Package xcolor Info: Model `Gray' substituted by `gray' on input line 1359.
 Package xcolor Info: Model `wave' substituted by `hsb' on input line 1360.
 )
-(F:\PortableApps\miktex\tex\latex\fontspec\fontspec.sty
+(K:\PortableApps\miktex\tex\latex\fontspec\fontspec.sty
 Package: fontspec 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaTeX
 
-(F:\PortableApps\miktex\tex\latex\l3kernel\expl3.sty
+(K:\PortableApps\miktex\tex\latex\l3kernel\expl3.sty
 Package: expl3 2016/05/18 v6512 L3 programming layer (loader) 
 
-(F:\PortableApps\miktex\tex\latex\l3kernel\expl3-code.tex
+(K:\PortableApps\miktex\tex\latex\l3kernel\expl3-code.tex
 Package: expl3 2016/05/18 v6512 L3 programming layer (code)
 L3 Module: l3bootstrap 2016/02/12 v6412 L3 Bootstrap code
 L3 Module: l3names 2016/03/11 v6433 L3 Namespace for primitives
@@ -157,11 +157,11 @@ L3 Module: l3candidates 2016/05/13 v6484 L3 Experimental additions to l3kernel
 \l__coffin_scaled_width_dim=\dimen133
 L3 Module: l3luatex 2016/03/26 v6465 L3 Experimental LuaTeX-specific functions
 )
-(F:\PortableApps\miktex\tex\latex\l3kernel\l3xdvipdfmx.def
+(K:\PortableApps\miktex\tex\latex\l3kernel\l3xdvipdfmx.def
 File: l3xdvidpfmx.def 2016/03/26 v6465 L3 Experimental driver: xdvipdfmx
 \l__driver_tmp_box=\box41
 ))
-(F:\PortableApps\miktex\tex\latex\l3packages\xparse\xparse.sty
+(K:\PortableApps\miktex\tex\latex\l3packages\xparse\xparse.sty
 Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
 \l__xparse_current_arg_int=\count109
 \l__xparse_m_args_int=\count110
@@ -176,7 +176,7 @@ Package: xparse 2016/05/18 v6512 L3 Experimental document command parser
 \l__fontspec_tmpb_dim=\dimen135
 \l__fontspec_tmpc_dim=\dimen136
 
-(F:\PortableApps\miktex\tex\latex\fontspec\fontspec-patches.sty
+(K:\PortableApps\miktex\tex\latex\fontspec\fontspec-patches.sty
 Package: fontspec-patches 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLa
 TeX
 LaTeX Info: Redefining \em on input line 49.
@@ -193,64 +193,64 @@ LaTeX Info: Redefining \- on input line 60.
 . Defining command \liningnums with sig. 'm' on line 159.
 .................................................
 )
-(F:\PortableApps\miktex\tex\latex\fontspec\fontspec-xetex.sty
+(K:\PortableApps\miktex\tex\latex\fontspec\fontspec-xetex.sty
 Package: fontspec-xetex 2015/09/24 v2.4e Font selection for XeLaTeX and LuaLaTe
 X
 
-(F:\PortableApps\miktex\tex\latex\base\fontenc.sty
+(K:\PortableApps\miktex\tex\latex\base\fontenc.sty
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
-(F:\PortableApps\miktex\tex\latex\euenc\eu1enc.def
+(K:\PortableApps\miktex\tex\latex\euenc\eu1enc.def
 File: eu1enc.def 2010/05/27 v0.1h Experimental Unicode font encodings
 )
 LaTeX Font Info:    Try loading font information for EU1+lmr on input line 105.
 
 
-(F:\PortableApps\miktex\tex\latex\euenc\eu1lmr.fd
+(K:\PortableApps\miktex\tex\latex\euenc\eu1lmr.fd
 File: eu1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Requested font "[lmroman10-regular]:mapping=tex-text" at 10.0pt
- -> F:/PortableApps/miktex/fonts/opentype/public/lm/lmroman10-regular.otf
+ -> K:/PortableApps/miktex/fonts/opentype/public/lm/lmroman10-regular.otf
 )
-(F:\PortableApps\miktex\tex\xelatex\xunicode\xunicode.sty
+(K:\PortableApps\miktex\tex\xelatex\xunicode\xunicode.sty
 File: xunicode.sty 2011/09/09 v0.981 provides access to latin accents and many 
 other characters in Unicode lower plane
 
-(F:\PortableApps\miktex\tex\latex\tipa\t3enc.def
+(K:\PortableApps\miktex\tex\latex\tipa\t3enc.def
 File: t3enc.def 2001/12/31 T3 encoding
 Requested font "[lmromanslant10-regular]:mapping=tex-text" at 10.0pt
- -> F:/PortableApps/miktex/fonts/opentype/public/lm/lmromanslant10-regular.otf
+ -> K:/PortableApps/miktex/fonts/opentype/public/lm/lmromanslant10-regular.otf
 Requested font "[lmroman10-italic]:mapping=tex-text" at 10.0pt
- -> F:/PortableApps/miktex/fonts/opentype/public/lm/lmroman10-italic.otf
+ -> K:/PortableApps/miktex/fonts/opentype/public/lm/lmroman10-italic.otf
 Requested font "[lmroman10-bold]:mapping=tex-text" at 10.0pt
- -> F:/PortableApps/miktex/fonts/opentype/public/lm/lmroman10-bold.otf
+ -> K:/PortableApps/miktex/fonts/opentype/public/lm/lmroman10-bold.otf
 LaTeX Font Info:    Try loading font information for EU1+lmss on input line 357
 .
 
-(F:\PortableApps\miktex\tex\latex\euenc\eu1lmss.fd
+(K:\PortableApps\miktex\tex\latex\euenc\eu1lmss.fd
 File: eu1lmss.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
 Requested font "[lmsans10-regular]:mapping=tex-text" at 10.0pt
- -> F:/PortableApps/miktex/fonts/opentype/public/lm/lmsans10-regular.otf
+ -> K:/PortableApps/miktex/fonts/opentype/public/lm/lmsans10-regular.otf
 )
 \tipaTiiicode=\count117
 \tipasavetokens=\toks14
 \tipachecktokens=\toks15
 
-(F:\PortableApps\miktex\tex\latex\graphics\graphicx.sty
+(K:\PortableApps\miktex\tex\latex\graphics\graphicx.sty
 Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
 
-(F:\PortableApps\miktex\tex\latex\graphics\keyval.sty
+(K:\PortableApps\miktex\tex\latex\graphics\keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks16
 )
-(F:\PortableApps\miktex\tex\latex\graphics\graphics.sty
+(K:\PortableApps\miktex\tex\latex\graphics\graphics.sty
 Package: graphics 2014/10/28 v1.0p Standard LaTeX Graphics (DPC,SPQR)
 
-(F:\PortableApps\miktex\tex\latex\graphics\trig.sty
+(K:\PortableApps\miktex\tex\latex\graphics\trig.sty
 Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
 )
-(F:\PortableApps\miktex\tex\latex\00miktex\graphics.cfg
+(K:\PortableApps\miktex\tex\latex\00miktex\graphics.cfg
 File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
 )
 Package graphics Info: Driver file: xetex.def on input line 94.
@@ -369,30 +369,30 @@ LaTeX Info: Redefining \slshape on input line 2232.
 LaTeX Info: Redefining \scshape on input line 2237.
 LaTeX Info: Redefining \upshape on input line 2242.
 
-(F:\PortableApps\miktex\tex\latex\fontspec\fontspec.cfg)))
-(F:\PortableApps\miktex\tex\latex\unicode-math\unicode-math.sty
+(K:\PortableApps\miktex\tex\latex\fontspec\fontspec.cfg)))
+(K:\PortableApps\miktex\tex\latex\unicode-math\unicode-math.sty
 Package: unicode-math 2015/09/24 v0.8c Unicode maths in XeLaTeX and LuaLaTeX
 
-(F:\PortableApps\miktex\tex\generic\ifxetex\ifxetex.sty
+(K:\PortableApps\miktex\tex\generic\ifxetex\ifxetex.sty
 Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 )
-(F:\PortableApps\miktex\tex\generic\oberdiek\ifluatex.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\ifluatex.sty
 Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 )
-(F:\PortableApps\miktex\tex\latex\ucharcat\ucharcat.sty
+(K:\PortableApps\miktex\tex\latex\ucharcat\ucharcat.sty
 Package: ucharcat 2015/11/19 v0.03 ucharcat for luaLaTeX (DPC)
 )
-(F:\PortableApps\miktex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
+(K:\PortableApps\miktex\tex\latex\l3packages\l3keys2e\l3keys2e.sty
 Package: l3keys2e 2016/05/18 v6512 LaTeX2e option processing using LaTeX3 keys
 )
-(F:\PortableApps\miktex\tex\latex\base\fix-cm.sty
+(K:\PortableApps\miktex\tex\latex\base\fix-cm.sty
 Package: fix-cm 2015/01/14 v1.1t fixes to LaTeX
 
-(F:\PortableApps\miktex\tex\latex\base\ts1enc.def
+(K:\PortableApps\miktex\tex\latex\base\ts1enc.def
 File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
 ))
-(F:\PortableApps\miktex\tex\latex\filehook\filehook.sty
+(K:\PortableApps\miktex\tex\latex\filehook\filehook.sty
 Package: filehook 2011/10/12 v0.5d Hooks for input files
 )
 \g__um_fam_int=\count119
@@ -404,7 +404,7 @@ Package: filehook 2011/10/12 v0.5d Hooks for input files
 . Defining command \unimathsetup with sig. 'm' on line 168.
 .................................................
 
-(F:\PortableApps\miktex\tex\latex\unicode-math\unicode-math-xetex.sty
+(K:\PortableApps\miktex\tex\latex\unicode-math\unicode-math-xetex.sty
 .................................................
 . LaTeX info: "xparse/define-command"
 . 
@@ -432,10 +432,59 @@ Package: filehook 2011/10/12 v0.5d Hooks for input files
 .................................................
 \g__file_internal_ior=\read1
 
-(F:\PortableApps\miktex\tex\latex\unicode-math\unicode-math-table.tex)))
+(K:\PortableApps\miktex\tex\latex\unicode-math\unicode-math-table.tex)))
+(K:\PortableApps\miktex\tex\latex\tools\multicol.sty
+Package: multicol 2015/08/19 v1.8n multicolumn formatting (FMi)
+\c@tracingmulticols=\count121
+\mult@box=\box42
+\multicol@leftmargin=\dimen139
+\c@unbalance=\count122
+\c@collectmore=\count123
+\doublecol@number=\count124
+\multicoltolerance=\count125
+\multicolpretolerance=\count126
+\full@width=\dimen140
+\page@free=\dimen141
+\premulticols=\dimen142
+\postmulticols=\dimen143
+\multicolsep=\skip49
+\multicolbaselineskip=\skip50
+\partial@page=\box43
+\last@line=\box44
+\maxbalancingoverflow=\dimen144
+\mult@rightbox=\box45
+\mult@grightbox=\box46
+\mult@gfirstbox=\box47
+\mult@firstbox=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\c@columnbadness=\count127
+\c@finalcolumnbadness=\count128
+\last@try=\dimen145
+\multicolovershoot=\dimen146
+\multicolundershoot=\dimen147
+\mult@nat@firstbox=\box66
+\colbreak@box=\box67
+\mc@col@check@num=\count129
+)
 Requested font "[texgyreheros-regular.otf]/OT" at 10.0pt
  -> ./texgyreheros-regular.otf
-\g__fontspec_family_texgyreheros-regular.otf_int=\count121
+\g__fontspec_family_texgyreheros-regular.otf_int=\count130
 Requested font "[texgyreheros-regular]/OT" at 10.0pt
  -> ./texgyreheros-regular.otf
 Requested font "[texgyreheros-bold]/OT" at 10.0pt
@@ -446,21 +495,21 @@ Requested font "[texgyreheros-bolditalic]/OT" at 10.0pt
  -> ./texgyreheros-bolditalic.otf
 Requested font "[Lato-Light.ttf]/OT" at 10.0pt
  -> ./Lato-Light.ttf
-\g__fontspec_family_Lato-Light.ttf_int=\count122
+\g__fontspec_family_Lato-Light.ttf_int=\count131
 Requested font "[Lato-Light]/OT" at 10.0pt
  -> ./Lato-Light.ttf
 Requested font "[texgyreheros-bold.otf]/OT" at 10.0pt
  -> ./texgyreheros-bold.otf
-\g__fontspec_family_texgyreheros-bold.otf_int=\count123
+\g__fontspec_family_texgyreheros-bold.otf_int=\count132
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/texgyreheros-regular.otf(2)/m/n on 
-input line 80.
+input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
 (Font)                  OT1/cmr/m/it --> EU1/texgyreheros-regular.otf(2)/m/it o
-n input line 80.
+n input line 81.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
 (Font)                  OT1/cmr/bx/n --> EU1/texgyreheros-regular.otf(2)/bx/n o
-n input line 80.
+n input line 81.
 Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
  -> ./texgyreheros-regular.otf
@@ -471,294 +520,294 @@ Requested font "[texgyreheros-regular.otf]/OT:script=latn;language=DFLT;" at 10
 .0pt
  -> ./texgyreheros-regular.otf
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `normal' on input line 82.
+(Font)              `operators' in the math version `normal' on input line 83.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
 (Font)                  OT1/cmr/m/n --> EU1/texgyreheros-regular.otf(3)/m/n on 
-input line 82.
+input line 83.
 LaTeX Font Info:    Encoding `OT1' has changed to `EU1' for symbol font
-(Font)              `operators' in the math version `bold' on input line 82.
+(Font)              `operators' in the math version `bold' on input line 83.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
 (Font)                  OT1/cmr/bx/n --> EU1/texgyreheros-regular.otf(3)/bx/n o
-n input line 82.
+n input line 83.
 
-(F:\PortableApps\miktex\tex\latex\pgf\frontendlayer\tikz.sty
-(F:\PortableApps\miktex\tex\latex\pgf\basiclayer\pgf.sty
-(F:\PortableApps\miktex\tex\latex\pgf\utilities\pgfrcs.sty
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfutil-common.tex
+(K:\PortableApps\miktex\tex\latex\pgf\frontendlayer\tikz.sty
+(K:\PortableApps\miktex\tex\latex\pgf\basiclayer\pgf.sty
+(K:\PortableApps\miktex\tex\latex\pgf\utilities\pgfrcs.sty
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfutil-common.tex
 \pgfutil@everybye=\toks17
-\pgfutil@tempdima=\dimen139
-\pgfutil@tempdimb=\dimen140
+\pgfutil@tempdima=\dimen148
+\pgfutil@tempdimb=\dimen149
 
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfutil-latex.def
-\pgfutil@abb=\box42
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfutil-common-lists.tex))
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfutil-latex.def
+\pgfutil@abb=\box68
 
-(F:\PortableApps\miktex\tex\latex\ms\everyshi.sty
+(K:\PortableApps\miktex\tex\latex\ms\everyshi.sty
 Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
 ))
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfrcs.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfrcs.code.tex
 Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
 ))
 Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
 
-(F:\PortableApps\miktex\tex\latex\pgf\basiclayer\pgfcore.sty
-(F:\PortableApps\miktex\tex\latex\pgf\systemlayer\pgfsys.sty
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys.code.tex
+(K:\PortableApps\miktex\tex\latex\pgf\basiclayer\pgfcore.sty
+(K:\PortableApps\miktex\tex\latex\pgf\systemlayer\pgfsys.sty
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys.code.tex
 Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
 
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfkeys.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfkeys.code.tex
 \pgfkeys@pathtoks=\toks18
 \pgfkeys@temptoks=\toks19
 
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfkeysfiltered.code.tex
 \pgfkeys@tmptoks=\toks20
 ))
-\pgf@x=\dimen141
-\pgf@y=\dimen142
-\pgf@xa=\dimen143
-\pgf@ya=\dimen144
-\pgf@xb=\dimen145
-\pgf@yb=\dimen146
-\pgf@xc=\dimen147
-\pgf@yc=\dimen148
+\pgf@x=\dimen150
+\pgf@y=\dimen151
+\pgf@xa=\dimen152
+\pgf@ya=\dimen153
+\pgf@xb=\dimen154
+\pgf@yb=\dimen155
+\pgf@xc=\dimen156
+\pgf@yc=\dimen157
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count124
-\c@pgf@countb=\count125
-\c@pgf@countc=\count126
-\c@pgf@countd=\count127
+\c@pgf@counta=\count133
+\c@pgf@countb=\count134
+\c@pgf@countc=\count135
+\c@pgf@countd=\count136
 \t@pgf@toka=\toks21
 \t@pgf@tokb=\toks22
 \t@pgf@tokc=\toks23
 
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgf.cfg
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgf.cfg
 File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
 )
 Driver file for pgf: pgfsys-xetex.def
 
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys-xetex.def
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys-xetex.def
 File: pgfsys-xetex.def 2014/07/09  (rcs-revision 1.11)
 
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys-dvipdfmx.def
 File: pgfsys-dvipdfmx.def 2014/07/09  (rcs-revision 1.14)
 
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsys-common-pdf.def
 File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
 )
-\pgfsys@objnum=\count128
+\pgfsys@objnum=\count137
 )))
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
-\pgfsyssoftpath@smallbuffer@items=\count129
-\pgfsyssoftpath@bigbuffer@items=\count130
+\pgfsyssoftpath@smallbuffer@items=\count138
+\pgfsyssoftpath@bigbuffer@items=\count139
 )
-(F:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
 ))
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcore.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcore.code.tex
 Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
 
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmath.code.tex
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathcalc.code.tex
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathutil.code.tex)
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathparser.code.tex
-\pgfmath@dimen=\dimen149
-\pgfmath@count=\count131
-\pgfmath@box=\box43
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmath.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathcalc.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathutil.code.tex)
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathparser.code.tex
+\pgfmath@dimen=\dimen158
+\pgfmath@count=\count140
+\pgfmath@box=\box69
 \pgfmath@toks=\toks24
 \pgfmath@stack@operand=\toks25
 \pgfmath@stack@operation=\toks26
 )
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.code.tex
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.trigonometric.cod
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.basic.code.tex)
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.trigonometric.cod
 e.tex)
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.comparison.code.t
-ex) (F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
-) (F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.integerarithmetic
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.random.code.tex)
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.comparison.code.t
+ex) (K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.base.code.tex
+) (K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.round.code.tex)
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.misc.code.tex)
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfunctions.integerarithmetic
 s.code.tex)))
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count132
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count141
 ))
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
-\pgf@picminx=\dimen150
-\pgf@picmaxx=\dimen151
-\pgf@picminy=\dimen152
-\pgf@picmaxy=\dimen153
-\pgf@pathminx=\dimen154
-\pgf@pathmaxx=\dimen155
-\pgf@pathminy=\dimen156
-\pgf@pathmaxy=\dimen157
-\pgf@xx=\dimen158
-\pgf@xy=\dimen159
-\pgf@yx=\dimen160
-\pgf@yy=\dimen161
-\pgf@zx=\dimen162
-\pgf@zy=\dimen163
+\pgf@picminx=\dimen159
+\pgf@picmaxx=\dimen160
+\pgf@picminy=\dimen161
+\pgf@picmaxy=\dimen162
+\pgf@pathminx=\dimen163
+\pgf@pathmaxx=\dimen164
+\pgf@pathminy=\dimen165
+\pgf@pathmaxy=\dimen166
+\pgf@xx=\dimen167
+\pgf@xy=\dimen168
+\pgf@yx=\dimen169
+\pgf@yy=\dimen170
+\pgf@zx=\dimen171
+\pgf@zy=\dimen172
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.te
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepathconstruct.code.te
 x
 File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
-\pgf@path@lastx=\dimen164
-\pgf@path@lasty=\dimen165
-) (F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
+\pgf@path@lastx=\dimen173
+\pgf@path@lasty=\dimen174
+) (K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepathusage.code.tex
 File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
-\pgf@shorten@end@additional=\dimen166
-\pgf@shorten@start@additional=\dimen167
-) (F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
+\pgf@shorten@end@additional=\dimen175
+\pgf@shorten@start@additional=\dimen176
+) (K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorescopes.code.tex
 File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
-\pgfpic=\box44
-\pgf@hbox=\box45
-\pgf@layerbox@main=\box46
-\pgf@picture@serial@count=\count133
+\pgfpic=\box70
+\pgf@hbox=\box71
+\pgf@layerbox@main=\box72
+\pgf@picture@serial@count=\count142
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
-\pgflinewidth=\dimen168
+\pgflinewidth=\dimen177
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoretransformations.code.
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoretransformations.code.
 tex
 File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
-\pgf@pt@x=\dimen169
-\pgf@pt@y=\dimen170
-\pgf@pt@temp=\dimen171
-) (F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
+\pgf@pt@x=\dimen178
+\pgf@pt@y=\dimen179
+\pgf@pt@temp=\dimen180
+) (K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorequick.code.tex
 File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreobjects.code.tex
 File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.t
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepathprocessing.code.t
 ex
 File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
-) (F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
+) (K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorearrows.code.tex
 File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
-\pgfarrowsep=\dimen172
+\pgfarrowsep=\dimen181
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
-\pgf@max=\dimen173
-\pgf@sys@shading@range@num=\count134
+\pgf@max=\dimen182
+\pgf@sys@shading@range@num=\count143
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
 
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoreexternal.code.tex
 File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
-\pgfexternal@startupbox=\box47
+\pgfexternal@startupbox=\box73
 ))
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorelayers.code.tex
 File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
 )
-(F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcoretransparency.code.tex
 File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
-) (F:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
+) (K:\PortableApps\miktex\tex\generic\pgf\basiclayer\pgfcorepatterns.code.tex
 File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
-))) (F:\PortableApps\miktex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
+))) (K:\PortableApps\miktex\tex\generic\pgf\modules\pgfmoduleshapes.code.tex
 File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
-\pgfnodeparttextbox=\box48
+\pgfnodeparttextbox=\box74
 )
-(F:\PortableApps\miktex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\modules\pgfmoduleplot.code.tex
 File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
 )
-(F:\PortableApps\miktex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
+(K:\PortableApps\miktex\tex\latex\pgf\compatibility\pgfcomp-version-0-65.sty
 Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
-\pgf@nodesepstart=\dimen174
-\pgf@nodesepend=\dimen175
+\pgf@nodesepstart=\dimen183
+\pgf@nodesepend=\dimen184
 )
-(F:\PortableApps\miktex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
+(K:\PortableApps\miktex\tex\latex\pgf\compatibility\pgfcomp-version-1-18.sty
 Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
 ))
-(F:\PortableApps\miktex\tex\latex\pgf\utilities\pgffor.sty
-(F:\PortableApps\miktex\tex\latex\pgf\utilities\pgfkeys.sty
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgfkeys.code.tex))
-(F:\PortableApps\miktex\tex\latex\pgf\math\pgfmath.sty
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmath.code.tex))
-(F:\PortableApps\miktex\tex\generic\pgf\utilities\pgffor.code.tex
+(K:\PortableApps\miktex\tex\latex\pgf\utilities\pgffor.sty
+(K:\PortableApps\miktex\tex\latex\pgf\utilities\pgfkeys.sty
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgfkeys.code.tex))
+(K:\PortableApps\miktex\tex\latex\pgf\math\pgfmath.sty
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmath.code.tex))
+(K:\PortableApps\miktex\tex\generic\pgf\utilities\pgffor.code.tex
 Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
 
-(F:\PortableApps\miktex\tex\generic\pgf\math\pgfmath.code.tex)
-\pgffor@iter=\dimen176
-\pgffor@skip=\dimen177
+(K:\PortableApps\miktex\tex\generic\pgf\math\pgfmath.code.tex)
+\pgffor@iter=\dimen185
+\pgffor@skip=\dimen186
 \pgffor@stack=\toks27
 \pgffor@toks=\toks28
 ))
-(F:\PortableApps\miktex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
+(K:\PortableApps\miktex\tex\generic\pgf\frontendlayer\tikz\tikz.code.tex
 Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
 
-(F:\PortableApps\miktex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.t
+(K:\PortableApps\miktex\tex\generic\pgf\libraries\pgflibraryplothandlers.code.t
 ex
 File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
-\pgf@plot@mark@count=\count135
-\pgfplotmarksize=\dimen178
+\pgf@plot@mark@count=\count144
+\pgfplotmarksize=\dimen187
 )
-\tikz@lastx=\dimen179
-\tikz@lasty=\dimen180
-\tikz@lastxsaved=\dimen181
-\tikz@lastysaved=\dimen182
-\tikzleveldistance=\dimen183
-\tikzsiblingdistance=\dimen184
-\tikz@figbox=\box49
-\tikz@figbox@bg=\box50
-\tikz@tempbox=\box51
-\tikz@tempbox@bg=\box52
-\tikztreelevel=\count136
-\tikznumberofchildren=\count137
-\tikznumberofcurrentchild=\count138
-\tikz@fig@count=\count139
- (F:\PortableApps\miktex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
+\tikz@lastx=\dimen188
+\tikz@lasty=\dimen189
+\tikz@lastxsaved=\dimen190
+\tikz@lastysaved=\dimen191
+\tikzleveldistance=\dimen192
+\tikzsiblingdistance=\dimen193
+\tikz@figbox=\box75
+\tikz@figbox@bg=\box76
+\tikz@tempbox=\box77
+\tikz@tempbox@bg=\box78
+\tikztreelevel=\count145
+\tikznumberofchildren=\count146
+\tikznumberofcurrentchild=\count147
+\tikz@fig@count=\count148
+ (K:\PortableApps\miktex\tex\generic\pgf\modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
-\pgfmatrixcurrentrow=\count140
-\pgfmatrixcurrentcolumn=\count141
-\pgf@matrix@numberofcolumns=\count142
+\pgfmatrixcurrentrow=\count149
+\pgfmatrixcurrentcolumn=\count150
+\pgf@matrix@numberofcolumns=\count151
 )
-\tikz@expandcount=\count143
+\tikz@expandcount=\count152
 
-(F:\PortableApps\miktex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrar
+(K:\PortableApps\miktex\tex\generic\pgf\frontendlayer\tikz\libraries\tikzlibrar
 ytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
-))) (F:\PortableApps\miktex\tex\latex\ltxmisc\parskip.sty
+))) (K:\PortableApps\miktex\tex\latex\ltxmisc\parskip.sty
 Package: parskip 2001/04/09 non-zero parskip adjustments
 )
-(F:\PortableApps\miktex\tex\latex\textpos\textpos.sty
+(K:\PortableApps\miktex\tex\latex\textpos\textpos.sty
 Package: textpos 2016/06/07 v1.8
 
 Package: textpos 2016/06/07 1.8, absolute positioning of text on the page
-\TP@textbox=\box53
-\TP@holdbox=\box54
-\TPHorizModule=\dimen185
-\TPVertModule=\dimen186
-\TP@margin=\dimen187
-\TP@absmargin=\dimen188
+\TP@textbox=\box79
+\TP@holdbox=\box80
+\TPHorizModule=\dimen194
+\TPVertModule=\dimen195
+\TP@margin=\dimen196
+\TP@absmargin=\dimen197
 Grid set 16 x 16 = 38.39343pt x 49.68562pt
-\TPboxrulesize=\dimen189
-\TP@ox=\dimen190
-\TP@oy=\dimen191
+\TPboxrulesize=\dimen198
+\TP@ox=\dimen199
+\TP@oy=\dimen256
 \TP@tbargs=\toks29
-\TP@prevdepth=\dimen192
+\TP@prevdepth=\dimen257
 TextBlockOrigin set to 0pt x 0pt
-) (F:\PortableApps\miktex\tex\latex\biblatex\biblatex.sty
+) (K:\PortableApps\miktex\tex\latex\biblatex\biblatex.sty
 Package: biblatex 2016/05/14 v3.4 programmable bibliographies (PK/JW/AB)
 
-(F:\PortableApps\miktex\tex\latex\iftex\iftex.sty
+(K:\PortableApps\miktex\tex\latex\iftex\iftex.sty
 Package: iftex 2013/04/04 v0.2 Provides if(tex) conditional for PDFTeX, XeTeX, 
 and LuaTeX
 )
-(F:\PortableApps\miktex\tex\generic\oberdiek\pdftexcmds.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\infwarerr.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\infwarerr.sty
 Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
 )
-(F:\PortableApps\miktex\tex\generic\oberdiek\ltxcmds.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\ltxcmds.sty
 Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
 )
-(F:\PortableApps\miktex\tex\generic\oberdiek\ifpdf.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\ifpdf.sty
 Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
 Package ifpdf Info: pdfTeX in PDF mode is not detected.
 )
@@ -768,217 +817,217 @@ Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 Package pdftexcmds Info: \pdfdraftmode not found.
 )
-(F:\PortableApps\miktex\tex\latex\etoolbox\etoolbox.sty
+(K:\PortableApps\miktex\tex\latex\etoolbox\etoolbox.sty
 Package: etoolbox 2015/08/02 v2.2a e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count144
+\etb@tempcnta=\count153
 )
-(F:\PortableApps\miktex\tex\latex\oberdiek\kvoptions.sty
+(K:\PortableApps\miktex\tex\latex\oberdiek\kvoptions.sty
 Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\kvsetkeys.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\kvsetkeys.sty
 Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\etexcmds.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\etexcmds.sty
 Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
 Package etexcmds Info: Could not find \expanded.
 (etexcmds)             That can mean that you are not using pdfTeX 1.50 or
 (etexcmds)             that some package has redefined \expanded.
 (etexcmds)             In the latter case, load this package earlier.
 )))
-(F:\PortableApps\miktex\tex\latex\logreq\logreq.sty
+(K:\PortableApps\miktex\tex\latex\logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count145
+\lrq@indent=\count154
 
-(F:\PortableApps\miktex\tex\latex\logreq\logreq.def
+(K:\PortableApps\miktex\tex\latex\logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
 ))
-(F:\PortableApps\miktex\tex\latex\base\ifthen.sty
+(K:\PortableApps\miktex\tex\latex\base\ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
-(F:\PortableApps\miktex\tex\latex\url\url.sty
+(K:\PortableApps\miktex\tex\latex\url\url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(F:\PortableApps\miktex\tex\latex\xstring\xstring.sty
-(F:\PortableApps\miktex\tex\generic\xstring\xstring.tex
+(K:\PortableApps\miktex\tex\latex\xstring\xstring.sty
+(K:\PortableApps\miktex\tex\generic\xstring\xstring.tex
 \@xs@message=\write4
-\integerpart=\count146
-\decimalpart=\count147
+\integerpart=\count155
+\decimalpart=\count156
 )
 Package: xstring 2013/10/13  v1.7c  String manipulations (C Tellechea)
 )
-\c@tabx@nest=\count148
-\c@listtotal=\count149
-\c@listcount=\count150
-\c@liststart=\count151
-\c@liststop=\count152
-\c@citecount=\count153
-\c@citetotal=\count154
-\c@multicitecount=\count155
-\c@multicitetotal=\count156
-\c@instcount=\count157
-\c@maxnames=\count158
-\c@minnames=\count159
-\c@maxitems=\count160
-\c@minitems=\count161
-\c@citecounter=\count162
-\c@savedcitecounter=\count163
-\c@uniquelist=\count164
-\c@uniquename=\count165
-\c@refsection=\count166
-\c@refsegment=\count167
-\c@maxextratitle=\count168
-\c@maxextratitleyear=\count169
-\c@maxextrayear=\count170
-\c@maxextraalpha=\count171
-\c@abbrvpenalty=\count172
-\c@highnamepenalty=\count173
-\c@lownamepenalty=\count174
-\c@maxparens=\count175
-\c@parenlevel=\count176
-\blx@tempcnta=\count177
-\blx@tempcntb=\count178
-\blx@tempcntc=\count179
-\blx@maxsection=\count180
-\blx@maxsegment@0=\count181
-\blx@notetype=\count182
-\blx@parenlevel@text=\count183
-\blx@parenlevel@foot=\count184
-\blx@sectionciteorder@0=\count185
-\labelnumberwidth=\skip49
-\labelalphawidth=\skip50
-\biblabelsep=\skip51
-\bibitemsep=\skip52
-\bibnamesep=\skip53
-\bibinitsep=\skip54
-\bibparsep=\skip55
-\bibhang=\skip56
+\c@tabx@nest=\count157
+\c@listtotal=\count158
+\c@listcount=\count159
+\c@liststart=\count160
+\c@liststop=\count161
+\c@citecount=\count162
+\c@citetotal=\count163
+\c@multicitecount=\count164
+\c@multicitetotal=\count165
+\c@instcount=\count166
+\c@maxnames=\count167
+\c@minnames=\count168
+\c@maxitems=\count169
+\c@minitems=\count170
+\c@citecounter=\count171
+\c@savedcitecounter=\count172
+\c@uniquelist=\count173
+\c@uniquename=\count174
+\c@refsection=\count175
+\c@refsegment=\count176
+\c@maxextratitle=\count177
+\c@maxextratitleyear=\count178
+\c@maxextrayear=\count179
+\c@maxextraalpha=\count180
+\c@abbrvpenalty=\count181
+\c@highnamepenalty=\count182
+\c@lownamepenalty=\count183
+\c@maxparens=\count184
+\c@parenlevel=\count185
+\blx@tempcnta=\count186
+\blx@tempcntb=\count187
+\blx@tempcntc=\count188
+\blx@maxsection=\count189
+\blx@maxsegment@0=\count190
+\blx@notetype=\count191
+\blx@parenlevel@text=\count192
+\blx@parenlevel@foot=\count193
+\blx@sectionciteorder@0=\count194
+\labelnumberwidth=\skip51
+\labelalphawidth=\skip52
+\biblabelsep=\skip53
+\bibitemsep=\skip54
+\bibnamesep=\skip55
+\bibinitsep=\skip56
+\bibparsep=\skip57
+\bibhang=\skip58
 \blx@bcfin=\read3
 \blx@bcfout=\write5
-\c@mincomprange=\count186
-\c@maxcomprange=\count187
-\c@mincompwidth=\count188
+\c@mincomprange=\count195
+\c@maxcomprange=\count196
+\c@mincompwidth=\count197
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\blx-dm.def)
+(K:\PortableApps\miktex\tex\latex\biblatex\blx-dm.def)
 Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'verbose.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count189
-\c@savedafterword=\count190
-\c@annotator=\count191
-\c@savedannotator=\count192
-\c@author=\count193
-\c@savedauthor=\count194
-\c@bookauthor=\count195
-\c@savedbookauthor=\count196
-\c@commentator=\count197
-\c@savedcommentator=\count198
-\c@editor=\count199
-\c@savededitor=\count266
-\c@editora=\count267
-\c@savededitora=\count268
-\c@editorb=\count269
-\c@savededitorb=\count270
-\c@editorc=\count271
-\c@savededitorc=\count272
-\c@foreword=\count273
-\c@savedforeword=\count274
-\c@holder=\count275
-\c@savedholder=\count276
-\c@introduction=\count277
-\c@savedintroduction=\count278
-\c@namea=\count279
-\c@savednamea=\count280
-\c@nameb=\count281
-\c@savednameb=\count282
-\c@namec=\count283
-\c@savednamec=\count284
-\c@translator=\count285
-\c@savedtranslator=\count286
-\c@shortauthor=\count287
-\c@savedshortauthor=\count288
-\c@shorteditor=\count289
-\c@savedshorteditor=\count290
-\c@labelname=\count291
-\c@savedlabelname=\count292
-\c@institution=\count293
-\c@savedinstitution=\count294
-\c@lista=\count295
-\c@savedlista=\count296
-\c@listb=\count297
-\c@savedlistb=\count298
-\c@listc=\count299
-\c@savedlistc=\count300
-\c@listd=\count301
-\c@savedlistd=\count302
-\c@liste=\count303
-\c@savedliste=\count304
-\c@listf=\count305
-\c@savedlistf=\count306
-\c@location=\count307
-\c@savedlocation=\count308
-\c@organization=\count309
-\c@savedorganization=\count310
-\c@origlocation=\count311
-\c@savedoriglocation=\count312
-\c@origpublisher=\count313
-\c@savedorigpublisher=\count314
-\c@publisher=\count315
-\c@savedpublisher=\count316
-\c@language=\count317
-\c@savedlanguage=\count318
-\c@pageref=\count319
-\c@savedpageref=\count320
-\shorthandwidth=\skip57
-\shortjournalwidth=\skip58
-\shortserieswidth=\skip59
-\shorttitlewidth=\skip60
-\shortauthorwidth=\skip61
-\shorteditorwidth=\skip62
+\c@afterword=\count198
+\c@savedafterword=\count199
+\c@annotator=\count266
+\c@savedannotator=\count267
+\c@author=\count268
+\c@savedauthor=\count269
+\c@bookauthor=\count270
+\c@savedbookauthor=\count271
+\c@commentator=\count272
+\c@savedcommentator=\count273
+\c@editor=\count274
+\c@savededitor=\count275
+\c@editora=\count276
+\c@savededitora=\count277
+\c@editorb=\count278
+\c@savededitorb=\count279
+\c@editorc=\count280
+\c@savededitorc=\count281
+\c@foreword=\count282
+\c@savedforeword=\count283
+\c@holder=\count284
+\c@savedholder=\count285
+\c@introduction=\count286
+\c@savedintroduction=\count287
+\c@namea=\count288
+\c@savednamea=\count289
+\c@nameb=\count290
+\c@savednameb=\count291
+\c@namec=\count292
+\c@savednamec=\count293
+\c@translator=\count294
+\c@savedtranslator=\count295
+\c@shortauthor=\count296
+\c@savedshortauthor=\count297
+\c@shorteditor=\count298
+\c@savedshorteditor=\count299
+\c@labelname=\count300
+\c@savedlabelname=\count301
+\c@institution=\count302
+\c@savedinstitution=\count303
+\c@lista=\count304
+\c@savedlista=\count305
+\c@listb=\count306
+\c@savedlistb=\count307
+\c@listc=\count308
+\c@savedlistc=\count309
+\c@listd=\count310
+\c@savedlistd=\count311
+\c@liste=\count312
+\c@savedliste=\count313
+\c@listf=\count314
+\c@savedlistf=\count315
+\c@location=\count316
+\c@savedlocation=\count317
+\c@organization=\count318
+\c@savedorganization=\count319
+\c@origlocation=\count320
+\c@savedoriglocation=\count321
+\c@origpublisher=\count322
+\c@savedorigpublisher=\count323
+\c@publisher=\count324
+\c@savedpublisher=\count325
+\c@language=\count326
+\c@savedlanguage=\count327
+\c@pageref=\count328
+\c@savedpageref=\count329
+\shorthandwidth=\skip59
+\shortjournalwidth=\skip60
+\shortserieswidth=\skip61
+\shorttitlewidth=\skip62
+\shortauthorwidth=\skip63
+\shorteditorwidth=\skip64
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\blx-compat.def
+(K:\PortableApps\miktex\tex\latex\biblatex\blx-compat.def
 File: blx-compat.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
 )
 Package biblatex Info: Trying to load generic definitions...
 Package biblatex Info: ... file 'biblatex.def' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\biblatex.def
+(K:\PortableApps\miktex\tex\latex\biblatex\biblatex.def
 File: biblatex.def 2016/05/14 v3.4 biblatex compatibility (PK/JW/AB)
-\c@textcitecount=\count321
-\c@textcitetotal=\count322
-\c@textcitemaxnames=\count323
-\c@biburlnumpenalty=\count324
-\c@biburlucpenalty=\count325
-\c@biburllcpenalty=\count326
-\c@smartand=\count327
+\c@textcitecount=\count330
+\c@textcitetotal=\count331
+\c@textcitemaxnames=\count332
+\c@biburlnumpenalty=\count333
+\c@biburlucpenalty=\count334
+\c@biburllcpenalty=\count335
+\c@smartand=\count336
 )
 Package biblatex Info: Trying to load bibliography style 'verbose'...
 Package biblatex Info: ... file 'verbose.bbx' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\bbx\verbose.bbx
+(K:\PortableApps\miktex\tex\latex\biblatex\bbx\verbose.bbx
 File: verbose.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'authortitle'...
 Package biblatex Info: ... file 'authortitle.bbx' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\bbx\authortitle.bbx
+(K:\PortableApps\miktex\tex\latex\biblatex\bbx\authortitle.bbx
 File: authortitle.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
 Package biblatex Info: Trying to load bibliography style 'standard'...
 Package biblatex Info: ... file 'standard.bbx' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\bbx\standard.bbx
+(K:\PortableApps\miktex\tex\latex\biblatex\bbx\standard.bbx
 File: standard.bbx 2016/05/14 v3.4 biblatex bibliography style (PK/JW/AB)
-\c@bbx:relatedcount=\count328
-\c@bbx:relatedtotal=\count329
+\c@bbx:relatedcount=\count337
+\c@bbx:relatedtotal=\count338
 )))
 Package biblatex Info: Trying to load citation style 'verbose'...
 Package biblatex Info: ... file 'verbose.cbx' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\cbx\verbose.cbx
+(K:\PortableApps\miktex\tex\latex\biblatex\cbx\verbose.cbx
 File: verbose.cbx 2016/05/14 v3.4 biblatex citation style (PK/JW/AB)
 Package biblatex Info: Redefining '\cite'.
 Package biblatex Info: Redefining '\parencite'.
@@ -991,13 +1040,13 @@ Package biblatex Info: Redefining '\textcites'.
 Package biblatex Info: Trying to load configuration file...
 Package biblatex Info: ... file 'biblatex.cfg' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\biblatex.cfg
+(K:\PortableApps\miktex\tex\latex\biblatex\biblatex.cfg
 File: biblatex.cfg 
 ))
 ! Illegal parameter number in definition of \blx@defformat@d.
 <to be read again> 
                    3
-l.289   \ifblank{#3
+l.291   \ifblank{#3
                    }{}{#3\space}#1%
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
@@ -1006,41 +1055,41 @@ are all screwed up? I'm going to assume that you meant ##.
 ! Illegal parameter number in definition of \blx@defformat@d.
 <to be read again> 
                    3
-l.289   \ifblank{#3}{}{#3
+l.291   \ifblank{#3}{}{#3
                          \space}#1%
 You meant to type ## instead of #, right?
 Or maybe a } was forgotten somewhere earlier, and things
 are all screwed up? I'm going to assume that you meant ##.
 
-(F:\PortableApps\miktex\tex\latex\geometry\geometry.sty
+(K:\PortableApps\miktex\tex\latex\geometry\geometry.sty
 Package: geometry 2010/09/12 v5.6 Page Geometry
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\ifvtex.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\ifvtex.sty
 Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
 Package ifvtex Info: VTeX not detected.
 )
-\Gm@cnth=\count330
-\Gm@cntv=\count331
-\c@Gm@tempcnt=\count332
-\Gm@bindingoffset=\dimen193
-\Gm@wd@mp=\dimen194
-\Gm@odd@mp=\dimen195
-\Gm@even@mp=\dimen196
-\Gm@layoutwidth=\dimen197
-\Gm@layoutheight=\dimen198
-\Gm@layouthoffset=\dimen199
-\Gm@layoutvoffset=\dimen256
+\Gm@cnth=\count339
+\Gm@cntv=\count340
+\c@Gm@tempcnt=\count341
+\Gm@bindingoffset=\dimen258
+\Gm@wd@mp=\dimen259
+\Gm@odd@mp=\dimen260
+\Gm@even@mp=\dimen261
+\Gm@layoutwidth=\dimen262
+\Gm@layoutheight=\dimen263
+\Gm@layouthoffset=\dimen264
+\Gm@layoutvoffset=\dimen265
 \Gm@dimlist=\toks30
 
-(F:\PortableApps\miktex\tex\xelatex\xetexconfig\geometry.cfg)))
-(F:\PortableApps\miktex\tex\latex\hyperref\hyperref.sty
+(K:\PortableApps\miktex\tex\xelatex\xetexconfig\geometry.cfg)))
+(K:\PortableApps\miktex\tex\latex\hyperref\hyperref.sty
 Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\hobsub-hyperref.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\hobsub-hyperref.sty
 Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
 
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\hobsub-generic.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\hobsub-generic.sty
 Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
 Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
 Package hobsub Info: Skipping package `infwarerr' (already loaded).
@@ -1068,19 +1117,19 @@ Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
 Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
 Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
 )
-(F:\PortableApps\miktex\tex\latex\oberdiek\auxhook.sty
+(K:\PortableApps\miktex\tex\latex\oberdiek\auxhook.sty
 Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
 )
-\@linkdim=\dimen257
-\Hy@linkcounter=\count333
-\Hy@pagecounter=\count334
+\@linkdim=\dimen266
+\Hy@linkcounter=\count342
+\Hy@pagecounter=\count343
 
-(F:\PortableApps\miktex\tex\latex\hyperref\pd1enc.def
+(K:\PortableApps\miktex\tex\latex\hyperref\pd1enc.def
 File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
 )
-\Hy@SavedSpaceFactor=\count335
+\Hy@SavedSpaceFactor=\count344
 
-(F:\PortableApps\miktex\tex\latex\00miktex\hyperref.cfg
+(K:\PortableApps\miktex\tex\latex\00miktex\hyperref.cfg
 File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
 )
 Package hyperref Info: Hyper figures OFF on input line 4443.
@@ -1090,13 +1139,13 @@ Package hyperref Info: Plain pages OFF on input line 4458.
 Package hyperref Info: Backreferencing OFF on input line 4463.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4688.
-\c@Hy@tempcnt=\count336
+\c@Hy@tempcnt=\count345
 LaTeX Info: Redefining \url on input line 5041.
-\XeTeXLinkMargin=\dimen258
+\XeTeXLinkMargin=\dimen267
 Requested font "pzdr" at 0.00002pt
-\Fld@menulength=\count337
-\Field@Width=\dimen259
-\Fld@charsize=\dimen260
+\Fld@menulength=\count346
+\Field@Width=\dimen268
+\Fld@charsize=\dimen269
 Package hyperref Info: Hyper figures OFF on input line 6295.
 Package hyperref Info: Link nesting OFF on input line 6300.
 Package hyperref Info: Hyper index ON on input line 6303.
@@ -1106,30 +1155,30 @@ Package hyperref Info: Link coloring with OCG OFF on input line 6320.
 Package hyperref Info: PDF/A mode OFF on input line 6325.
 LaTeX Info: Redefining \ref on input line 6365.
 LaTeX Info: Redefining \pageref on input line 6369.
-\Hy@abspage=\count338
-\c@Item=\count339
-\c@Hfootnote=\count340
+\Hy@abspage=\count347
+\c@Item=\count348
+\c@Hfootnote=\count349
 )
 
 Package hyperref Message: Driver (autodetected): hxetex.
 
-(F:\PortableApps\miktex\tex\latex\hyperref\hxetex.def
+(K:\PortableApps\miktex\tex\latex\hyperref\hxetex.def
 File: hxetex.def 2012/11/06 v6.83m Hyperref driver for XeTeX
 
-(F:\PortableApps\miktex\tex\latex\hyperref\puenc.def
+(K:\PortableApps\miktex\tex\latex\hyperref\puenc.def
 File: puenc.def 2012/11/06 v6.83m Hyperref: PDF Unicode definition (HO)
 )
-(F:\PortableApps\miktex\tex\generic\oberdiek\stringenc.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\stringenc.sty
 Package: stringenc 2011/12/02 v1.10 Convert strings between diff. encodings (HO
 )
 )
-\pdfm@box=\box55
-\c@Hy@AnnotLevel=\count341
-\HyField@AnnotCount=\count342
-\Fld@listcount=\count343
-\c@bookmark@seq@number=\count344
+\pdfm@box=\box81
+\c@Hy@AnnotLevel=\count350
+\HyField@AnnotCount=\count351
+\Fld@listcount=\count352
+\c@bookmark@seq@number=\count353
 
-(F:\PortableApps\miktex\tex\latex\oberdiek\rerunfilecheck.sty
+(K:\PortableApps\miktex\tex\latex\oberdiek\rerunfilecheck.sty
 Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
 Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 (rerunfilecheck)             (e.g. pdfTeX or LuaTeX with package `pdftexcmds').
@@ -1138,24 +1187,24 @@ Package rerunfilecheck Info: Feature \pdfmdfivesum is not available
 tly
 (rerunfilecheck)             and the loading of the package is aborted.
 )
-\Hy@SectionHShift=\skip63
+\Hy@SectionHShift=\skip65
 )
-(F:\PortableApps\miktex\tex\latex\enumitem\enumitem.sty
+(K:\PortableApps\miktex\tex\latex\enumitem\enumitem.sty
 Package: enumitem 2011/09/28 v3.5.2 Customized lists
-\labelindent=\skip64
-\enit@outerparindent=\dimen261
+\labelindent=\skip66
+\enit@outerparindent=\dimen270
 \enit@toks=\toks31
-\enit@inbox=\box56
-\enitdp@description=\count345
+\enit@inbox=\box82
+\enitdp@description=\count354
 )
 Package biblatex Info: Trying to load language 'english'...
 Package biblatex Info: ... file 'english.lbx' found.
 
-(F:\PortableApps\miktex\tex\latex\biblatex\lbx\english.lbx
+(K:\PortableApps\miktex\tex\latex\biblatex\lbx\english.lbx
 File: english.lbx 2016/05/14 v3.4 biblatex localization (PK/JW/AB)
 )
-\@quotelevel=\count346
-\@quotereset=\count347
+\@quotelevel=\count355
+\@quotereset=\count356
  (CV.aux)
 \openout1 = `CV.aux'.
 
@@ -1176,7 +1225,7 @@ LaTeX Font Info:    ... okay on input line 20.
 LaTeX Font Info:    Checking defaults for T3/cmr/m/n on input line 20.
 LaTeX Font Info:    Try loading font information for T3+cmr on input line 20.
 
-(F:\PortableApps\miktex\tex\latex\tipa\t3cmr.fd
+(K:\PortableApps\miktex\tex\latex\tipa\t3cmr.fd
 File: t3cmr.fd 2001/12/31 TIPA font definitions
 )
 LaTeX Font Info:    ... okay on input line 20.
@@ -1233,15 +1282,15 @@ Package biblatex Info: Reference segment=0 on input line 20.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\AtBeginShipoutBox=\box57
+\AtBeginShipoutBox=\box83
 Package hyperref Info: Link coloring OFF on input line 20.
-(F:\PortableApps\miktex\tex\latex\hyperref\nameref.sty
+(K:\PortableApps\miktex\tex\latex\hyperref\nameref.sty
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\gettitlestring.sty
+(K:\PortableApps\miktex\tex\generic\oberdiek\gettitlestring.sty
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count348
+\c@section@level=\count357
 )
 LaTeX Info: Redefining \ref on input line 20.
 LaTeX Info: Redefining \pageref on input line 20.
@@ -1257,13 +1306,27 @@ Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;" at 40.0pt
  -> ./texgyreheros-regular.otf
 Requested font "[Lato-Light]/OT:script=latn;language=DFLT;" at 14.0pt
  -> ./Lato-Light.ttf
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28  \vspace{-0.5cm}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
 Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 14.4pt
  -> ./texgyreheros-regular.otf
 Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 14.4pt
  -> ./texgyreheros-bold.otf
 
-Overfull \hbox (3.60997pt too wide) in paragraph at lines 34--34
+Overfull \hbox (3.60997pt too wide) in paragraph at lines 35--35
  [][]\EU1/texgyreheros-regular.otf(1)/m/n/10 alex.papiez@gmail.com[]
  []
 
@@ -1274,19 +1337,19 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.39    \begin{itemize}
+l.40    \begin{itemize}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (1.66666pt too wide) in paragraph at lines 40--40
+Overfull \hbox (1.66666pt too wide) in paragraph at lines 41--41
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 7 Years laboratory
  []
 
 
-Overfull \hbox (8.76334pt too wide) in paragraph at lines 41--41
+Overfull \hbox (8.76334pt too wide) in paragraph at lines 42--42
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Tutoring experience 
  []
 
@@ -1297,30 +1360,35 @@ Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;" at 5.0pt
  -> ./texgyreheros-regular.otf
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 42.
+(Font)              <7> on input line 43.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 42.
+(Font)              <5> on input line 43.
 Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 7.0pt
  -> ./texgyreheros-regular.otf
 
-Overfull \hbox (2.77666pt too wide) in paragraph at lines 42--42
+Overfull \hbox (2.77666pt too wide) in paragraph at lines 43--43
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Competent user of
  []
 
 
-Overfull \hbox (14.04536pt too wide) in paragraph at lines 42--42
+Overfull \hbox (14.04536pt too wide) in paragraph at lines 43--43
 \EU1/texgyreheros-regular.otf(1)/m/n/10 L[]T[]Xtypesetting soft-
  []
 
 
-Overfull \hbox (14.30333pt too wide) in paragraph at lines 43--43
+Overfull \hbox (14.30333pt too wide) in paragraph at lines 44--44
 \EU1/texgyreheros-regular.otf(1)/m/n/10 Python programming
  []
 
 
-Overfull \hbox (1.29665pt too wide) in paragraph at lines 44--44
+Overfull \hbox (1.29665pt too wide) in paragraph at lines 45--45
 \EU1/texgyreheros-regular.otf(1)/m/n/10 of Microsoft Office
+ []
+
+
+Overfull \hbox (3.31334pt too wide) in paragraph at lines 46--46
+\EU1/texgyreheros-regular.otf(1)/m/n/10 independantly and
  []
 
 
@@ -1330,14 +1398,12 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.48    \end{itemize}
+l.49    \end{itemize}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 10.0pt
- -> ./texgyreheros-bold.otf
 Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 17.28pt
  -> ./texgyreheros-regular.otf
@@ -1346,8 +1412,8 @@ Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 17.28pt
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.56 \section{Personal Statement}
-                                 
+l.54 \section{Profile}
+                      
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1357,14 +1423,16 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.63 \section{Education}
-                        
+l.56 \section{Employment}
+                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 10.0pt
+ -> ./texgyreheros-bold.otf
 Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 8.0pt
  -> ./texgyreheros-regular.otf
@@ -1384,6 +1452,17 @@ Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 Requested font "[texgyreheros-italic]/OT:script=latn;language=DFLT;mapping=tex-
 text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
  -> ./texgyreheros-italic.otf
+! Undefined control sequence.
+\section ...nt \color {headercolor}\@sectioncolor 
+                                                  #1} \par \vspace {\parskip } 
+l.76 \section{Education}
+                        
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
 Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 9.0pt
  -> ./texgyreheros-regular.otf
@@ -1392,15 +1471,28 @@ Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 9.0pt
 Requested font "[texgyreheros-italic]/OT:script=latn;language=DFLT;mapping=tex-
 text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 9.0pt
  -> ./texgyreheros-italic.otf
+Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
+-text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 12.0pt
+ -> ./texgyreheros-regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 79--79
+Underfull \hbox (badness 10000) in paragraph at lines 97--97
+
+ []
+
+(K:\PortableApps\miktex\tex\generic\oberdiek\se-ascii-print.def
+File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
+
+) [1
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 113--113
 
  []
 
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.92 \section{Employment}
+l.132 \section{Interests}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1408,44 +1500,64 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-(F:\PortableApps\miktex\tex\generic\oberdiek\se-ascii-print.def
-File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 
-) [1
+Underfull \hbox (badness 10000) in paragraph at lines 133--135
 
-]
-Overfull \hbox (2.06409pt too wide) in paragraph at lines 115--120
-\EU1/texgyreheros-regular.otf(1)/m/it/10 Typing, filing, answering the telephon
-e, making travel arrangements, prepar-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 136--137
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--139
+
  []
 
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.137 \section{Voluntary Work}
-                              
+l.144 \section{References}
+                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+! Undefined control sequence.
+<recently read> \justify 
+                         
+l.146 \justify
+              
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 147--157
+
+ []
+
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
  (CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 154.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 154.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 170.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 170.
 Package logreq Info: Writing requests to 'CV.run.xml'.
 \openout1 = `CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41819 strings out of 428721
- 783789 string characters out of 3164907
- 1175465 words of memory out of 3000000
- 44778 multiletter control sequences out of 15000+200000
- 4304 words of font info for 53 fonts, out of 3000000 for 9000
+ 41935 strings out of 428721
+ 785601 string characters out of 3164907
+ 1179911 words of memory out of 3000000
+ 44890 multiletter control sequences out of 15000+200000
+ 4312 words of font info for 54 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
  73i,5n,65p,10457b,2342s stack positions out of 5000i,500n,10000p,200000b,50000s
 

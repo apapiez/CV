@@ -61,6 +61,7 @@
 %%% modified by Karol Kozioł for ShareLaTex use
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
+\RequirePackage{multicol}
 
 \newfontfamily\bodyfont
 [BoldFont=texgyreheros-bold.otf,
@@ -159,7 +160,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 %%%%%%%%%%%%%%%%%%%%
 % List environment %
 %%%%%%%%%%%%%%%%%%%%
-\setlength{\tabcolsep}{0pt}
+\setlength{\tabcolsep}{6pt}
 \newenvironment{entrylist}{%
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
 }{%
@@ -192,6 +193,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \obeycr
 }{%
   \restorecr
+  \vrule
    \end{flushright}
   \end{textblock}
    \let\section\oldsection
