@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  4 AUG 2016 22:49
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  7 AUG 2016 17:28
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -1353,27 +1353,14 @@ Overfull \hbox (8.76334pt too wide) in paragraph at lines 42--42
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Tutoring experience 
  []
 
-Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
--text;" at 7.0pt
- -> ./texgyreheros-regular.otf
-Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
--text;" at 5.0pt
- -> ./texgyreheros-regular.otf
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 43.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 43.
-Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
--text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 7.0pt
- -> ./texgyreheros-regular.otf
 
 Overfull \hbox (2.77666pt too wide) in paragraph at lines 43--43
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Competent user of
  []
 
 
-Overfull \hbox (14.04536pt too wide) in paragraph at lines 43--43
-\EU1/texgyreheros-regular.otf(1)/m/n/10 L[]T[]Xtypesetting soft-
+Overfull \hbox (1.1924pt too wide) in paragraph at lines 43--43
+\EU1/texgyreheros-regular.otf(1)/m/n/10 LaTeX typesetting
  []
 
 
@@ -1553,11 +1540,11 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41935 strings out of 428721
- 785601 string characters out of 3164907
+ 41927 strings out of 428721
+ 785205 string characters out of 3164907
  1179911 words of memory out of 3000000
- 44890 multiletter control sequences out of 15000+200000
- 4312 words of font info for 54 fonts, out of 3000000 for 9000
+ 44885 multiletter control sequences out of 15000+200000
+ 4288 words of font info for 51 fonts, out of 3000000 for 9000
  1096 hyphenation exceptions out of 8191
  73i,5n,65p,10457b,2342s stack positions out of 5000i,500n,10000p,200000b,50000s
 
