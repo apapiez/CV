@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  7 AUG 2016 17:50
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  7 AUG 2016 18:04
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -1399,7 +1399,7 @@ Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 17.28pt
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.55 \section{Profile}
+l.58 \section{Profile}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1410,7 +1410,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.57 \section{Employment}
+l.60 \section{Employment}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1442,7 +1442,7 @@ text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.77 \section{Education}
+l.80 \section{Education}
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1462,7 +1462,7 @@ Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 12.0pt
  -> ./texgyreheros-regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 98--98
+Underfull \hbox (badness 10000) in paragraph at lines 101--101
 
  []
 
@@ -1472,14 +1472,14 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ) [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 114--114
+Underfull \hbox (badness 10000) in paragraph at lines 117--117
 
  []
 
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.133 \section{Interests}
+l.136 \section{Interests}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1488,24 +1488,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 134--136
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 137--138
+Underfull \hbox (badness 10000) in paragraph at lines 140--141
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
+Underfull \hbox (badness 10000) in paragraph at lines 142--143
 
  []
 
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.145 \section{References}
+l.148 \section{References}
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1516,7 +1516,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \justify 
                          
-l.147 \justify
+l.150 \justify
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1525,16 +1525,16 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 148--158
+Underfull \hbox (badness 10000) in paragraph at lines 151--161
 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 173.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 173.
  (CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 171.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 171.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 173.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 173.
 Package logreq Info: Writing requests to 'CV.run.xml'.
 \openout1 = `CV.run.xml'.
 
