@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  7 AUG 2016 17:28
+This is XeTeX, Version 3.14159265-2.6-0.99992 (MiKTeX 2.9) (preloaded format=xelatex 2016.8.4)  7 AUG 2016 17:50
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -1314,7 +1314,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.28  \vspace{-0.5cm}
+l.29  \vspace{-0.5cm}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1326,7 +1326,7 @@ Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 14.4pt
  -> ./texgyreheros-bold.otf
 
-Overfull \hbox (3.60997pt too wide) in paragraph at lines 35--35
+Overfull \hbox (3.60997pt too wide) in paragraph at lines 36--36
  [][]\EU1/texgyreheros-regular.otf(1)/m/n/10 alex.papiez@gmail.com[]
  []
 
@@ -1337,45 +1337,45 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.40    \begin{itemize}
+l.41    \begin{itemize}
                        
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-Overfull \hbox (1.66666pt too wide) in paragraph at lines 41--41
+Overfull \hbox (1.66666pt too wide) in paragraph at lines 42--42
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 7 Years laboratory
  []
 
 
-Overfull \hbox (8.76334pt too wide) in paragraph at lines 42--42
+Overfull \hbox (8.76334pt too wide) in paragraph at lines 43--43
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Tutoring experience 
  []
 
 
-Overfull \hbox (2.77666pt too wide) in paragraph at lines 43--43
+Overfull \hbox (2.77666pt too wide) in paragraph at lines 44--44
 []\EU1/texgyreheros-regular.otf(1)/m/n/10 Competent user of
  []
 
 
-Overfull \hbox (1.1924pt too wide) in paragraph at lines 43--43
+Overfull \hbox (1.1924pt too wide) in paragraph at lines 44--44
 \EU1/texgyreheros-regular.otf(1)/m/n/10 LaTeX typesetting
  []
 
 
-Overfull \hbox (14.30333pt too wide) in paragraph at lines 44--44
+Overfull \hbox (14.30333pt too wide) in paragraph at lines 45--45
 \EU1/texgyreheros-regular.otf(1)/m/n/10 Python programming
  []
 
 
-Overfull \hbox (1.29665pt too wide) in paragraph at lines 45--45
+Overfull \hbox (1.29665pt too wide) in paragraph at lines 46--46
 \EU1/texgyreheros-regular.otf(1)/m/n/10 of Microsoft Office
  []
 
 
-Overfull \hbox (3.31334pt too wide) in paragraph at lines 46--46
-\EU1/texgyreheros-regular.otf(1)/m/n/10 independantly and
+Overfull \hbox (3.31334pt too wide) in paragraph at lines 47--47
+\EU1/texgyreheros-regular.otf(1)/m/n/10 independently and
  []
 
 
@@ -1385,7 +1385,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.49    \end{itemize}
+l.50    \end{itemize}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -1399,7 +1399,7 @@ Requested font "[texgyreheros-bold]/OT:script=latn;language=DFLT;" at 17.28pt
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.54 \section{Profile}
+l.55 \section{Profile}
                       
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1410,7 +1410,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.56 \section{Employment}
+l.57 \section{Employment}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1442,7 +1442,7 @@ text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 10.0pt
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.76 \section{Education}
+l.77 \section{Education}
                         
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1462,7 +1462,7 @@ Requested font "[texgyreheros-regular]/OT:script=latn;language=DFLT;mapping=tex
 -text;mapping=tex-text;mapping=tex-text;color=4D4D4DFF ;" at 12.0pt
  -> ./texgyreheros-regular.otf
 
-Underfull \hbox (badness 10000) in paragraph at lines 97--97
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
 
  []
 
@@ -1472,14 +1472,14 @@ File: se-ascii-print.def 2011/12/02 v1.10 stringenc: Printable ASCII characters
 ) [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 113--113
+Underfull \hbox (badness 10000) in paragraph at lines 114--114
 
  []
 
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.132 \section{Interests}
+l.133 \section{Interests}
                          
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1488,24 +1488,24 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--135
+Underfull \hbox (badness 10000) in paragraph at lines 134--136
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 137--138
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 138--139
+Underfull \hbox (badness 10000) in paragraph at lines 139--140
 
  []
 
 ! Undefined control sequence.
 \section ...nt \color {headercolor}\@sectioncolor 
                                                   #1} \par \vspace {\parskip } 
-l.144 \section{References}
+l.145 \section{References}
                           
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1516,7 +1516,7 @@ and I'll forget about whatever was undefined.
 ! Undefined control sequence.
 <recently read> \justify 
                          
-l.146 \justify
+l.147 \justify
               
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
@@ -1525,16 +1525,16 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 147--157
+Underfull \hbox (badness 10000) in paragraph at lines 148--158
 
  []
 
 [2]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 171.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 171.
  (CV.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 170.
-Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 170.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 171.
+Package atveryend Info: Empty hook `AtEndAfterFileList' on input line 171.
 Package logreq Info: Writing requests to 'CV.run.xml'.
 \openout1 = `CV.run.xml'.
 
