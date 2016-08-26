@@ -1,6 +1,6 @@
 {
   "name": "Alexander Papiez",
   "tagline": "Ciriculum Vitae",
-  "body": "<object data=\"https://github.com/apapiez/CV/blob/master/CV.pdf\" type=\"application/pdf\" width=\"100%\" height=\"100%\">\r\n  <p>Link to the PDF<a href=\"https://github.com/apapiez/CV/blob/master/CV.pdf\"></a></p>\r\n</object>",
+  "body": "<iframe width=\"100%\" height=\"100%\" src=\"https://github.com/apapiez/CV/blob/master/CV.pdf\">\r\nThis browser does not support PDFs. Please download the PDF to view it: <a href=\"https://github.com/apapiez/CV/blob/master/CV.pdf\">Download PDF</a>\r\n</iframe>",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
