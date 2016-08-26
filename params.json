@@ -1,6 +1,6 @@
 {
   "name": "Alexander Papiez",
   "tagline": "Ciriculum Vitae",
-  "body": "<a href=https://docs.google.com/viewer?url=${https://github.com/apapiez/CV/blob/master/CV.pdf}",
+  "body": "[CV PDF](https://docs.google.com/viewer?url=${https://github.com/apapiez/CV/blob/master/CV.pdf})",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
