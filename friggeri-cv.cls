@@ -48,11 +48,11 @@
 
 % \RequirePackage[quiet]{fontspec}
 % \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
- 
+% 
 % \newfontfamily\bodyfont[]{Helvetica Neue}
 % \newfontfamily\thinfont[]{Helvetica Neue UltraLight}
 % \newfontfamily\headingfont[]{Helvetica Neue Condensed Bold}
- 
+% 
 % \defaultfontfeatures{Mapping=tex-text}
 % \setmainfont[Mapping=tex-text, Color=textcolor]{Helvetica Neue Light}
 % 
@@ -61,7 +61,6 @@
 %%% modified by Karol Kozioł for ShareLaTex use
 \RequirePackage[quiet]{fontspec}
 \RequirePackage[math-style=TeX,vargreek-shape=unicode]{unicode-math}
-\RequirePackage{multicol}
 
 \newfontfamily\bodyfont
 [BoldFont=texgyreheros-bold.otf,
@@ -97,8 +96,8 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 
 \newcommand{\header}[4]{%
   \begin{tikzpicture}[remember picture,overlay]
-    \node [rectangle, fill=fillheader, anchor=north,yshift=-0.6cm, minimum width=0.8\paperwidth, minimum height=2.5cm] (box) at (current page.north){};
-    \node [anchor=center,yshift=0.0cm] (name) at (box) {%
+    \node [rectangle, fill=fillheader, anchor=north,yshift=-0.6cm, minimum width=0.8\paperwidth, minimum height=3cm] (box) at (current page.north){};
+    \node [anchor=center,yshift=0.3cm] (name) at (box) {%
       \fontsize{40pt}{72pt}\color{header}%
       {\thinfont #1}{\bodyfont  #2}
     };
@@ -160,7 +159,7 @@ BoldItalicFont=texgyreheros-bolditalic.otf
 %%%%%%%%%%%%%%%%%%%%
 % List environment %
 %%%%%%%%%%%%%%%%%%%%
-\setlength{\tabcolsep}{6pt}
+\setlength{\tabcolsep}{0pt}
 \newenvironment{entrylist}{%
   \begin{tabular*}{\textwidth}{@{\extracolsep{\fill}}ll}
 }{%
@@ -188,12 +187,11 @@ BoldItalicFont=texgyreheros-bolditalic.otf
   \renewcommand{\section}[1]{
     \par\vspace{\baselineskip}{\Large\headingfont\color{headercolor} ##1}
   }
-  \begin{textblock}{3.6}(1.0, 4.33)
+  \begin{textblock}{3.6}(1.5, 4.33)
   \begin{flushright}
   \obeycr
 }{%
   \restorecr
-  \vrule
    \end{flushright}
   \end{textblock}
    \let\section\oldsection
